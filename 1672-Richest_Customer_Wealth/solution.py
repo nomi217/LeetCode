@@ -8,5 +8,5 @@ class Solution:
             maxWealthSoFar = max(maxWealthSoFar, currentCustomerWealth)
         return maxWealthSoFar
         
-        #Time Complexity = O(n x m)
+        #Time Complexity = O(m x n)
         #Space Complexity = O(1)

@@ -11,6 +11,6 @@ public class Solution {
             maxWealthSoFor = Math.Max(maxWealthSoFor, currentCustomerWealth);
         }
         return maxWealthSoFor;
-    }//Time Complexity = O(n x m)
+    }//Time Complexity = O(m x n)
         //Space Complexity = O(1)
 }
